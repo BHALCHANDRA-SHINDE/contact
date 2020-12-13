@@ -1,5 +1,7 @@
 const express = require('express')
 
+// Backend
+
 const bodyParser = require('body-parser')
 const db = require('./db')
 var cors = require('cors')

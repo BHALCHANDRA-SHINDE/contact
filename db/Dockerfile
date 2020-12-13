@@ -1,4 +1,5 @@
 
+#Dockerfile
 #base image 
 FROM mysql:5.7
 #setting a password for root user

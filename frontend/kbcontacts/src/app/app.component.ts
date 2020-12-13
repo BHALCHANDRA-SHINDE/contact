@@ -12,3 +12,5 @@ export class AppComponent {
     private router: Router) {
   }
 }
+
+//component.ts
